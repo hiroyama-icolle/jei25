@@ -7,7 +7,7 @@ public class D51Q17kadai {
         else if(x < 4){
             System.out.println("under 4");
         }
-        else{
+        else {
             System.out.println("Just 4");
         }
     }
